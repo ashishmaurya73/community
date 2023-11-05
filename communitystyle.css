@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(backgroundimage1.png);
+    background-size: cover;
+    background-position: center;
+}
+.container{
+    /* background-color: rgb(219, 244, 176); */
+    height: 100vh;
+    display: flex;
+    padding: 30px;
+
+}
+/* .container h1{
+    
+    
+} */
+.btn{
+    /* display: flex;
+    align-items: center; */
+    font-size: 50px;
+    /* padding: 20px; */
+    height: 60px;
+    /* flex-direction: row; */
+}
